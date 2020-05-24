@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+.btn {
+    padding: 0.5rem 0.7rem;
+    margin: 0 auto;
+    display: block;
+}
+.container {
+    width: 1300px;
+    margin: 3rem auto;
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    height: 700px;
+    position: relative;
+}
+.letter {
+    position: absolute;
+}
